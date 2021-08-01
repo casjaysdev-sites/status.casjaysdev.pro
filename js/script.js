@@ -60,6 +60,7 @@ $(document).ready(function() {
             "api_key": api_key,
             "format": "json",
             "logs": config.uptimerobot.logs,
+            "custom_http_headers": 1,
         }, function(response) {
             status( response );
         }, 'json');
