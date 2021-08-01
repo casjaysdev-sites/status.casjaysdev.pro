@@ -24,19 +24,6 @@ $(document).ready(function() {
                 "m780974619-8d721ce43304057be3bc753f",
                 //service:ssh
                 "m780974604-22f8eea376694b66238873dc",
-                //
-                "",
-                //
-                "",
-                //
-                "",
-                //
-                "",
-                //
-                "",
-                //
-                "",
-
             ],
             logs: 1
         },
@@ -60,6 +47,7 @@ $(document).ready(function() {
             "api_key": api_key,
             "format": "json",
             "logs": config.uptimerobot.logs,
+            "custom_http_headers": "1",
         }, function(response) {
             status( response );
         }, 'json');
