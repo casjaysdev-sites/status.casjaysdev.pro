@@ -6,11 +6,11 @@ $(document).ready(function() {
                 "m780974685-6caf09a8345c5b741120d2b9",
                 //domain:casjay.email
                 "m780974654-33ef18a225391968bad2b4ad",
-                //domain:casjay.net
+                //domain:casjay.pro
                 "m780974598-b9b955b171c5650d37bf92e6",
                 //domain:casjaydns.com
                 "m780974652-5e780e5ed98f46bde0cecd17",
-                //domain:casjaysdev.com
+                //domain:casjaysdev.pro
                 "m780974701-cfc8b78203a31fcfcc94052d",
                 //service:dns1
                 "m780974612-308ce8b82605b1725df305ee",
@@ -29,7 +29,7 @@ $(document).ready(function() {
         },
         github: {
             org: 'casjaysdev',
-            repo: 'status.casjaysdev.com'
+            repo: 'status.casjaysdev.pro'
         }
     };
 

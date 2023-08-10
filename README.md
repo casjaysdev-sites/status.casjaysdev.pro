@@ -1,6 +1,6 @@
-# status.casjaysdev.com  
+# status.casjaysdev.pro  
   
   
-[CasjaysDev Status Site](https://status.casjaysdev.com)
+[CasjaysDev Status Site](https://status.casjaysdev.pro)
   
   
